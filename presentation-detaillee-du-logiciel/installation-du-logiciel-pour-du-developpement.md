@@ -12,5 +12,5 @@ nous vous proposons git desktop : [https://desktop.github.com/](https://desktop.
 
 Il vous suffira de copier le dépôt ici : [https://github.com/i2ml/Amenage3D](https://github.com/i2ml/Amenage3D)
 
-
+![](../.gitbook/assets/clonedepot.png)
 
