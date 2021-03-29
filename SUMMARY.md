@@ -7,8 +7,8 @@
   * [To Do](presentation-detaillee-du-logiciel/to-do.md)
   * [Open Source](presentation-detaillee-du-logiciel/open-source.md)
   * [Installation du logiciel pour du développement](presentation-detaillee-du-logiciel/installation-du-logiciel-pour-du-developpement.md)
-* [Exemple de réalisation d'un projet avec Aménage](exemple-de-realisation-dun-projet-avec-amenage.md)
-* [Création d'un Projet](creation-dun-projet.md)
+* [Exemple de réalisation d'un projet avec Aménage](exemple-de-realisation-dun-projet-avec-amenage/README.md)
+  * [Création d'un Projet](exemple-de-realisation-dun-projet-avec-amenage/creation-dun-projet.md)
 * [liens utiles](liens-utiles.md)
 * [Contact](contact.md)
 
