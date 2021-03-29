@@ -7,3 +7,7 @@ description: >-
 
 # Exemple de réalisation d'un projet avec Aménage
 
+Placez vos murs au bonnes dimensions :
+
+![](../.gitbook/assets/exampleimage.png)
+
