@@ -14,3 +14,13 @@ Il vous suffira de copier le dépôt ici : [https://github.com/i2ml/Amenage3D](h
 
 ![](../.gitbook/assets/clonedepot.png)
 
+Enfin Cloner le projet ici :
+
+![](../.gitbook/assets/gitadd.jpg)
+
+![](../.gitbook/assets/clonegitdestop.jpg)
+
+Il vous suffira de **coller le lien du dépôt** copié au-dessus et d'appuyer sur "**Clone**" :
+
+![](../.gitbook/assets/clonagegitdesktop.jpg)
+
