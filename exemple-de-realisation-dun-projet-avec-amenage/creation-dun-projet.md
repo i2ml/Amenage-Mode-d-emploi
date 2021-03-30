@@ -22,6 +22,10 @@ En le sélectionnant vous aurais accès a une fiche "Projet" en bas de l'image c
 '\*' Champ Obligatoire
 {% endhint %}
 
+{% hint style="info" %}
+Le mieux reste de remplir le plus de champs possible 😁 
+{% endhint %}
+
 Vous pouvez **Sauvegarder** le projet a l'aide de l'icone ci dessous ou avec **ctrl + s** 
 
 ![](../.gitbook/assets/capture_menu_deroulant_save.png)
