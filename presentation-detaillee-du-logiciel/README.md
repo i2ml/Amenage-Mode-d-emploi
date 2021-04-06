@@ -1,12 +1,12 @@
 # Présentation détaillée du logiciel
 
 {% hint style="danger" %}
-Attention : Cette partie est pour les contributeur voulant aider au développement  
+Attention : Cette partie est pour les contributeurs voulant aider au développement  
 {% endhint %}
 
 Ici vous trouverez la doc Technique d'Aménage, afin d'apporter un support pour nos contributeurs. 
 
-Aménage est open-source vous pouvez donc trouvez les Licence Open-source ici :
+Aménage est open-source vous pouvez donc trouvez les Licences Open-source ici :
 
 {% page-ref page="open-source.md" %}
 

@@ -2,7 +2,7 @@
 
 ## Les ViewPort
 
-Nous allons voir l'ensemble de **l'interface** ensemble ici, commençons par la **vue principale** ici en **rouge** la vue cardier est la **vue 2D.**   
+Nous allons voir l'ensemble de **l'interface** ensemble ici, commençons par la **vue principale** ici en **rouge** la vue quadrillée est la **vue 2D.**   
 
 ![](.gitbook/assets/presentationlogicielviewprincipal.jpg)
 
@@ -14,7 +14,7 @@ Vous pouvez donc avoir le rendu en temps réel de votre création.
 
 ## **l'inspecteur**
 
- Trouvez ci-dessous le **menu** qui vous servira à **naviguer** entre les **différant mode** 
+ Trouvez ci-dessous le **menu** qui vous servira à **naviguer** entre les **différents modes** 
 
 ![](.gitbook/assets/presentationlogicielmenustrip.jpg)
 
@@ -39,7 +39,7 @@ Puis pour finir sur l'inspecteur de gauche nous avons en dessous de la vue Secon
 
 ## Le menu Strip 
 
-le menu strip est une barre situez en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que :
+le menu strip est une barre située en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que :
 
 * la sauvegarde rapide
 * les préférences du logiciel
