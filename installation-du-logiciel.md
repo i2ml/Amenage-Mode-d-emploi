@@ -14,7 +14,7 @@ Vous devez tout d'abord [Télécharger ](https://amenage.i2ml.fr/3d)[Aménage ](
 
 ![](.gitbook/assets/amenagesiteinternet.png)
 
-Puis prendre la dernière version disponible ou celle qui vous convient dans notre cas **Aménage v0.3** :
+Puis prendre la dernière version disponible ou celle qui vous convient, dans notre cas **Aménage v0.3** :
 
 ![](.gitbook/assets/instalationclasicgithub.png)
 
@@ -22,21 +22,21 @@ Puis prendre la dernière version disponible ou celle qui vous convient dans not
 
 ![](.gitbook/assets/instalationexe.png)
 
-Une fois télécharger dézipper ou vous le souhaiter sur votre ordinateur : 
+Une fois télécharger, dézipper ou vous le souhaiter sur votre ordinateur : 
 
 ![](.gitbook/assets/dezip.jpg)
 
-Entrée dans le fichier et trouver le .exe :
+Pour lancer l'installation, vous devez exécuter le fichier .exe :
 
 ![](.gitbook/assets/exe.jpg)
 
-Une fois Installer nous vous proposons de passer à "**Création d'un projet**" ci-dessous :
+Une fois Installé nous vous proposons de passer à "**Création d'un projet**" ci-dessous :
 
 {% page-ref page="exemple-de-realisation-dun-projet-avec-amenage/creation-dun-projet.md" %}
 
 ## Création d'un raccourcis Bureau 
 
-Si vous souhaitez  y avoir accès depuis n'importe ou, les raccourcis sont pratique 
+Si vous souhaitez  y avoir accès depuis n'importe où, les raccourcis sont pratiques 
 
 Faite **clique droit sur le .exe, Envoyer vers , Bureau :**
 
