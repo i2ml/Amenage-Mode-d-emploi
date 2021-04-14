@@ -42,19 +42,19 @@ Dans **le menu projet** vous pouvez retrouver une liste de boutons vous permetta
 
 ![](.gitbook/assets/presentationongletsousmenu.jpg)
 
-Chaque onglets du menu emmènent à un sous-menu différent. Par exemple, le bouton Projet \(celui tout en haut à gauche\) permet d'affiche le sous-menu encadré en rouge ci-dessous. Les champs sont à renseigner pour assurer la bonne sauvegarde de votre projet.
+**Chaque boutons** du menu emmènent à un **sous-menu différent.** Par exemple, le bouton Projet \(celui tout en haut à gauche\) permet **d'afficher** le **sous-menu encadré** en rouge ci-dessous. Les **champs** sont à **renseigner** pour assurer **la bonne sauvegarde** de votre **projet**.
 
 ![](.gitbook/assets/presentationinspector.jpg)
 
--Si l'on clique sur le deuxième bouton, le menu de création des murs/pièces/portes/fenêtres/étages s'ouvre nous permettant de réalisé ces derniers.
+-Si l'on **clique** sur le **deuxième bouton**, le **menu de création** des murs/pièces/portes/fenêtres/étages s'ouvre nous permettant de réalisé ces derniers.
 
 ![](.gitbook/assets/image%20%2828%29.png)
 
--Si l'on clique sur le troisième bouton, la liste du mobilier est affiché ce qui vous permettra d'aménager votre projet.
+-Si l'on **clique** sur le **troisième bouton,** la **liste du mobilier** est affichée ce qui vous permettra **d'aménager** votre projet.
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
--Si l'on clique sur le quatrième bouton, vous pouvez créer des zone de texte afin de vous retrouvez dans la création de votre bien, vous pouvez également réaliser des mesures sur vos scènes.
+-Si l'on **clique** sur le **quatrième bouton**, vous pouvez **créer des zones de texte** afin de **structurer** la création de **votre bien,** vous pouvez également **réaliser des mesures** sur vos scènes.
 
 ![](.gitbook/assets/image%20%288%29.png)
 
@@ -62,17 +62,17 @@ Chaque onglets du menu emmènent à un sous-menu différent. Par exemple, le bou
 
 le menu secondaire est une barre située en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que \(de gauche à droite\):
 
-* Revenir à l'action précédente ou suivante si vous êtes déjà revenu en arrière.
-* Changer de vue entre 2D et 3D.
-* Prendre une capture d'écran.
-* Afficher une liste d'aide avec des raccourcis utiles ainsi que l'explication de certains logos.
-* Sauvegarder le projet en cours.
-* Ouvrir le menu des paramètres.
-* Quitter l'application.
+* **Revenir** à l'action **précédente** ou **suivante** si vous êtes déjà revenu en arrière.
+* **Changer** de vue entre 2D et 3D.
+* **Prendre** une capture d'écran.
+* **Afficher** une **liste d'aide** avec des raccourcis utiles ainsi que **l'explication** de certains logos.
+* **Sauvegarder** le **projet** en **cours**.
+* **Ouvrir** le menu des **paramètres**.
+* **Quitter** l'application.
 
 ![](.gitbook/assets/presentationmenustrip.jpg)
 
-Après avoir survolez les fonctionnalités de l'interface du logiciel, nous allons maintenant voir plus en détail les fonctionnalités énoncées précédemment.
+Après avoir survolez **les fonctionnalités de l'interface du logiciel**, nous allons maintenant voir plus en détail **les fonctionnalités énoncées précédemment**.
 
 {% page-ref page="presentation-detaillee-du-logiciel/" %}
 
