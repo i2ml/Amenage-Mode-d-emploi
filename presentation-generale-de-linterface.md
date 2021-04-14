@@ -1,7 +1,7 @@
 # Présentation générale de l'interface
 
 {% hint style="info" %}
-Ce guide vous permettra de gagner beaucoup de temps pour la prise en main du logiciel, il vous est, par conséquent, fortement conseillé.
+Ce guide vous permettra de gagner beaucoup de temps pour la prise en main du logiciel. Il vous est, par conséquent, fortement conseillé.
 {% endhint %}
 
 ## Les différents point de vue :
@@ -10,7 +10,7 @@ Nous allons voir l'ensemble de **l'interface** ensemble ici, commençons par la 
 
 ![](.gitbook/assets/presentationlogicielviewprincipal.jpg)
 
-Vous pouvez changer cette **vue principale** en une **vue 3D** que l'on peut apercevoir dans l'encadrement à gauche sur la capture ci-dessous. Pour se faire, il vous suffit soit **de cliquer sur le cadre à gauche**, soit **d'utiliser les boutons 2D/3D** prévu à cet effet tout en haut de l'interface**. Toutes les modifications** que vous apporterez, sur l'une ou l'autre des scènes, **seront visibles directement** grâce à **ce petit cadre** en direct. 
+Vous pouvez changer cette **vue principale** en une **vue 3D** que l'on peut apercevoir dans l'encadrement à gauche sur la capture ci-dessous. Pour se faire, il vous suffit soit **de cliquer sur le cadre à gauche**, soit **d'utiliser les boutons 2D/3D** prévu à cet effet tout en haut de l'interface**. Toutes les modifications** que vous apporterez, sur l'une ou l'autre des scènes, **seront visibles directement** sur l'autre scène grâce à **ce petit cadre**. 
 
 ![](.gitbook/assets/presentationlogicielviewsecondaire.jpg)
 
