@@ -4,11 +4,11 @@
 
 Aménage 3D vous permet de modéliser un logement **complet**, équipé de toutes les aides techniques dont vous pouvez avoir besoin.
 
-Aménage est un logiciel permettant de créer facilement votre appartement ou idéal afin de communiquer vos contraintes et vos besoins à un sous-traitant ou à un client vos modifications possibles avec les contraintes des surfaces.
+Aménage est un logiciel permettant de créer facilement votre appartement avec des contraintes en fonction de vos besoins pour les communiquer à un sous-traitant ou à un client afin d'exposer vos modifications possibles avec les contraintes physiques ainsi que les contraintes liées à l'environnement dans lequel évolue la personne concernée.
 
-Il permet donc une **communication** plus **facile** entre **client et professionnel**.
+Il permet donc une **communication** plus **facile/directe** entre **client et professionnel**.
 
-Il est **simple d'utilisation** et nous vous mettons à disposition une **documentation** afin de prendre en main en quelques minutes le logiciel Aménage :
+Il est **simple d'utilisation** et nous vous mettons à disposition une **documentation** afin de prendre en main en peu de temps le logiciel Aménage :
 
 {% page-ref page="exemple-de-realisation-dun-projet-avec-amenage.md" %}
 
