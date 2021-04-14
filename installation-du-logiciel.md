@@ -8,7 +8,7 @@ Il vous faudra un logiciel de Zip comme **Winrar** ou **Zzip** Si vous n'est pas
 Vous pouvez retrouver le lien de téléchargements de c'est logiciel dans liens utiles. 
 {% endhint %}
 
-{% page-ref page="liens-utiles.md" %}
+{% page-ref page="contact/liens-utiles.md" %}
 
 Vous devez tout d'abord [Télécharger ](https://amenage.i2ml.fr/3d)[Aménage ](https://amenage.i2ml.fr/3d): [https://amenage.i2ml.fr/3d](https://amenage.i2ml.fr/3d)\*\*\*\*
 
@@ -32,7 +32,7 @@ Pour lancer l'installation, vous devez exécuter le fichier .exe :
 
 Une fois Installé nous vous proposons de passer à "**Création d'un projet**" ci-dessous :
 
-{% page-ref page="exemple-de-realisation-dun-projet-avec-amenage/creation-dun-projet.md" %}
+{% page-ref page="presentation-detaillee-du-logiciel/creation-dun-projet.md" %}
 
 ## Création d'un raccourcis Bureau 
 

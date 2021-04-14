@@ -10,7 +10,7 @@ Elle peut changer avec la **vue 3D** qui est ici à **gauche**, il vous suffit d
 
 ![](.gitbook/assets/presentationlogicielviewsecondaire.jpg)
 
-Vous pouvez donc avoir le rendu en temps réel de votre création.
+Vous pouvez donc avoir le rendu 3D en temps réel de votre création en 2D.
 
 ## **l'inspecteur**
 
@@ -21,11 +21,11 @@ Vous pouvez donc avoir le rendu en temps réel de votre création.
 il vous permet dans l'ordre de gauche à droite de :  
 
 * Accès aux informations du projet
-* Création des salles, des murs, des Portes, des fenêtres est enfin d'un ou plusieurs étage
+* Création des salles, des murs, des portes, des fenêtres et enfin d'un ou plusieurs étages
 * Placement des meubles
 * Différents outils de mesures, personnages, légendes.  
 
-Une petite astuce si votre Este perdu référer vous a la barre en bas de l'écran suivant le bouton sélectionné ou la situation elle vous indiquera les fonctionnalités disponibles.
+Une petite astuce si vous êtes perdu référer vous a la barre en bas de l'écran suivant le bouton sélectionné ou la situation elle vous indiquera les fonctionnalités disponibles.
 
 ![ici aucun bouton n&apos;est survoler alors le contexte vous indique une astuce.](.gitbook/assets/presentationlogicielviewbarreastuce.jpg)
 
