@@ -1,32 +1,56 @@
 ---
-description: Configuration d'un projet & création de votre première scène.
+description: Configuration du projet.
 ---
 
 # Création d'un Projet
 
-Pour Commencer Un nouveau Projet Sélectionner Dans Le Menu principal :
+Au départ, pour éviter tout problème pour la suite des opérations il vous faudra renseigner les champs suivant dans le premier onglets "Projets" du menu principal.
 
 ![](../.gitbook/assets/capture_menu_deroulant.png)
 
 
 
-En le sélectionnant vous aurais accès a une fiche "Projet" en bas de l'image ci dessus ou vous pouvez y remplir :
+Un sous-menu s'affiche avec des champs vide à remplir. Dans l'ordre de haut en bas les champs correspondent à :
 
-* Le nom de votre projet \*
-* Votre nom et prénom
-* La date de votre réalisation
-* L'adresse du logement 
-* La version de votre projet 
-
-{% hint style="danger" %}
-'\*' Champ Obligatoire
-{% endhint %}
+* Le nom de votre projet.
+* Votre nom.
+* Votre prénom
+* La date de réalisation de votre projet.
+* L'adresse du logement.
+* La version de votre projet.
+* Un commentaire \(facultatif\)
 
 {% hint style="info" %}
-Le mieux reste de remplir le plus de champs possible 😁 
+Plus les champs seront remplis plus votre sauvegarde sera claire et précise lors de l'export.
 {% endhint %}
 
-Vous pouvez **Sauvegarder** le projet a l'aide de l'icone ci dessous ou avec **ctrl + s** 
+Afin de sauvegarder votre projet, il vous faut cliquer sur le bouton comme indiqué ci-dessous ou faire le raccourcis ctrl + s. Une fenêtre s'ouvrira et il faudra enregistrer le fichier .json dans un endroit où vous pourrez y avoir accès facilement.
 
 ![](../.gitbook/assets/capture_menu_deroulant_save.png)
+
+Une fois le projet créer et enregistrer vous êtes prêt pour la suite du tutoriel :
+
+{% page-ref page="creer-sa-premiere-piece.md" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
