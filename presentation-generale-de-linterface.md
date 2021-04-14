@@ -1,16 +1,16 @@
 # Présentation générale de l'interface
 
-## Les ViewPort
+## Les différents point de vue :
 
 Nous allons voir l'ensemble de **l'interface** ensemble ici, commençons par la **vue principale** ici en **rouge** la vue quadrillée est la **vue 2D.**   
 
 ![](.gitbook/assets/presentationlogicielviewprincipal.jpg)
 
-Elle peut changer avec la **vue 3D** qui est ici à **gauche**, il vous suffit de **cliquer** dessus pour **switch** les **viewport.**
+Vous pouvez changer cette **vue principale** en une **vue 3D** que l'on peut apercevoir dans l'encadrement à gauche sur la capture ci-dessous. Pour se faire, il vous suffit soit **de cliquer sur le cadre à gauche**, soit **d'utiliser les boutons 2D/3D** prévu à cet effet tout en haut de l'interface**. Toutes les modifications** que vous apporterez, sur l'une ou l'autre des scènes, **seront visibles directement** grâce à **ce petit cadre** en direct. 
 
 ![](.gitbook/assets/presentationlogicielviewsecondaire.jpg)
 
-Vous pouvez donc avoir le rendu 3D en temps réel de votre création en 2D.
+
 
 ## **l'inspecteur**
 
