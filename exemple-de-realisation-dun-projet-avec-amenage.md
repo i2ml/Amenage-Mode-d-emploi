@@ -11,15 +11,15 @@ Avec cet outil vous pourrez réaliser des projets divers et variés comme par ex
 
 
 
-![Vue 2D du projet](.gitbook/assets/image%20%2823%29.png)
+![Vue 2D du projet](.gitbook/assets/image%20%2825%29.png)
 
-![Vue 3D du projet](.gitbook/assets/image%20%2830%29.png)
+![Vue 3D du projet](.gitbook/assets/image%20%2833%29.png)
 
 Plusieurs mobilier seront à votre disposition afin de correspondre au plus à vos attentes : 
 
 -Mobilier de cuisine :
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2829%29.png)
 
 -Mobilier de salon :
 
@@ -27,7 +27,7 @@ Plusieurs mobilier seront à votre disposition afin de correspondre au plus à v
 
 De plus avec un peu de décoration et un peu d'imagination nous pouvons arriver à un résultat correct de l'appartement souhaité : 
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 
 

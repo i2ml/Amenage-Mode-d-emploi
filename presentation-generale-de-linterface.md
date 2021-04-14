@@ -12,40 +12,77 @@ Vous pouvez changer cette **vue principale** en une **vue 3D** que l'on peut ape
 
 
 
-## **l'inspecteur**
+## **Le menu principal**
 
- Trouvez ci-dessous le **menu** qui vous servira à **naviguer** entre les **différents modes** 
+Vous trouverez en haut à gauche le **menu** qui vous servira à **naviguer** entre les **différentes fonctionnalités du logiciel.** 
 
 ![](.gitbook/assets/presentationlogicielmenustrip.jpg)
 
 il vous permet dans l'ordre de gauche à droite de :  
 
-* Accès aux informations du projet
-* Création des salles, des murs, des portes, des fenêtres et enfin d'un ou plusieurs étages
-* Placement des meubles
-* Différents outils de mesures, personnages, légendes.  
+* Accéder aux **informations du projet.**
+* Créer **des salles**, **des murs**, **des portes**, **des fenêtres** ou encore **des étages**.
+* Aménager vos pièces avec des **meubles divers et variés**.
+* Rajouter des **commentaires** ainsi que de réaliser des **mesures** sur les différentes scènes.  
 
-Une petite astuce si vous êtes perdu référer vous a la barre en bas de l'écran suivant le bouton sélectionné ou la situation elle vous indiquera les fonctionnalités disponibles.
+**Une infobulle** vous indique en permanence **l'utilité du bouton** que vous **survolez**. Dans le cas où vous ne survolez pas de bouton, elle vous indiquera comment **vous déplacer** **dans la scène** principale que ce soit en 3D ou en 2D.
 
-![ici aucun bouton n&apos;est survoler alors le contexte vous indique une astuce.](.gitbook/assets/presentationlogicielviewbarreastuce.jpg)
+![ici aucun bouton n&apos;est survol&#xE9; donc elle affiche l&apos;utilisation de la cam&#xE9;ra.](.gitbook/assets/presentationlogicielviewbarreastuce.jpg)
 
-Trouver en dessous les menus de navigation des différents onglets ou raccourcis de fonctionnalité.
+Dans **le menu projet** vous pouvez retrouver une liste de boutons vous permettant de : 
+
+* **Créer** un nouveau **projet vierge.**
+* **Charger un fichier** précédemment enregistrer.
+* **Enregistrer** votre sauvegarde en cours \(plus communément appelé "**Enregistrer**"\).
+* **Enregistrer** sous un nom précis votre projet sur votre ordinateur \(plus communément appelé "**Enregistrer sous**"\).
+* **Exporter** le projet **au format .txt** avec un récapitulatif des meubles générés et des pièces créées.
+* **Exporter** le projet **au format .odt**.
+
+  .
 
 ![](.gitbook/assets/presentationongletsousmenu.jpg)
 
-Puis pour finir sur l'inspecteur de gauche nous avons en dessous de la vue Secondaire, un autre panneau où vous trouverez tous les petits champs à renseigner comme ici les informations du projet, ou encore les différents éléments à placer dans la scène.
+Chaque onglets du menu emmènent à un sous-menu différent. Par exemple, le bouton Projet \(celui tout en haut à gauche\) permet d'affiche le sous-menu encadré en rouge ci-dessous. Les champs sont à renseigner pour assurer la bonne sauvegarde de votre projet.
 
 ![](.gitbook/assets/presentationinspector.jpg)
 
-## Le menu Strip 
+-Si l'on clique sur le deuxième bouton, le menu de création des murs/pièces/portes/fenêtres/étages s'ouvre nous permettant de réalisé ces derniers.
 
-le menu strip est une barre située en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que :
+![](.gitbook/assets/image%20%2828%29.png)
 
-* la sauvegarde rapide
-* les préférences du logiciel
-* d'alterner entre les vues
-* retourner en arrière ou revenir sur la précédant modification
-* centrée les vues.
+-Si l'on clique sur le troisième bouton, la liste du mobilier est affiché ce qui vous permettra d'aménager votre projet.
+
+![](.gitbook/assets/image%20%2813%29.png)
+
+-Si l'on clique sur le quatrième bouton, vous pouvez créer des zone de texte afin de vous retrouvez dans la création de votre bien, vous pouvez également réaliser des mesures sur vos scènes.
+
+![](.gitbook/assets/image%20%288%29.png)
+
+## Le secondaire
+
+le menu secondaire est une barre située en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que \(de gauche à droite\):
+
+* Revenir à l'action précédente ou suivante si vous êtes déjà revenu en arrière.
+* Changer de vue entre 2D et 3D.
+* Prendre une capture d'écran.
+* Afficher une liste d'aide avec des raccourcis utiles ainsi que l'explication de certains logos.
+* Sauvegarder le projet en cours.
+* Ouvrir le menu des paramètres.
+* Quitter l'application.
 
 ![](.gitbook/assets/presentationmenustrip.jpg)
+
+Après avoir survolez les fonctionnalités de l'interface du logiciel, nous allons maintenant voir plus en détail les fonctionnalités énoncées précédemment.
+
+{% page-ref page="presentation-detaillee-du-logiciel/" %}
+
+
+
+
+
+
+
+
+
+
 
