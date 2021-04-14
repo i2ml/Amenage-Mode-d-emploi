@@ -6,7 +6,7 @@ description: Configuration d'un projet & création de votre première scène.
 
 Pour Commencer Un nouveau Projet Sélectionner Dans Le Menu principal :
 
-![](.gitbook/assets/capture_menu_deroulant.png)
+![](../.gitbook/assets/capture_menu_deroulant.png)
 
 
 
@@ -28,5 +28,5 @@ Le mieux reste de remplir le plus de champs possible 😁
 
 Vous pouvez **Sauvegarder** le projet a l'aide de l'icone ci dessous ou avec **ctrl + s** 
 
-![](.gitbook/assets/capture_menu_deroulant_save.png)
+![](../.gitbook/assets/capture_menu_deroulant_save.png)
 

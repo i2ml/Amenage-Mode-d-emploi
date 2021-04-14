@@ -32,7 +32,7 @@ Retrouvez toutes les **solutions libre** de la fondation **i2ml** sur notre **Gi
 
 {% page-ref page="exemple-de-realisation-dun-projet-avec-amenage.md" %}
 
-{% page-ref page="creation-dun-projet.md" %}
+{% page-ref page="presentation-detaillee-du-logiciel-1/creation-dun-projet.md" %}
 
 {% page-ref page="contact/liens-utiles.md" %}
 
