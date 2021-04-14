@@ -1,5 +1,9 @@
 # Présentation générale de l'interface
 
+{% hint style="info" %}
+Ce guide vous permettra de gagner beaucoup de temps pour la prise en main du logiciel, il vous est, par conséquent, fortement conseillé.
+{% endhint %}
+
 ## Les différents point de vue :
 
 Nous allons voir l'ensemble de **l'interface** ensemble ici, commençons par la **vue principale** ici en **rouge** la vue quadrillée est la **vue 2D.**   
