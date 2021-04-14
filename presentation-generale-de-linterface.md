@@ -58,7 +58,7 @@ Dans **le menu projet** vous pouvez retrouver une liste de boutons vous permetta
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-## Le secondaire
+## Le menu secondaire
 
 le menu secondaire est une barre située en haut de l'encrant permettant d'accéder à des fonctionnalités rapides telles que \(de gauche à droite\):
 
