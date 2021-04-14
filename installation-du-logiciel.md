@@ -10,11 +10,11 @@ Vous pouvez retrouver le lien de téléchargements de c'est logiciel dans liens 
 
 {% page-ref page="contact/liens-utiles.md" %}
 
-Vous devez tout d'abord [Télécharger ](https://amenage.i2ml.fr/3d)[Aménage ](https://amenage.i2ml.fr/3d): [https://amenage.i2ml.fr/3d](https://amenage.i2ml.fr/3d)\*\*\*\*
+Vous devez tout d'abord Télécharger Aménage depuis le site [https://amenage.i2ml.fr/3d](https://amenage.i2ml.fr/3d)\*\*\*\*
 
 ![](.gitbook/assets/amenagesiteinternet.png)
 
-Puis prendre la dernière version disponible ou celle qui vous convient, dans notre cas **Aménage v0.3** :
+Il vous faudra prendre la dernière version disponible ou celle qui vous convient, dans notre cas **Aménage v0.3** :
 
 ![](.gitbook/assets/instalationclasicgithub.png)
 
@@ -22,7 +22,7 @@ Puis prendre la dernière version disponible ou celle qui vous convient, dans no
 
 ![](.gitbook/assets/instalationexe.png)
 
-Une fois télécharger, dézipper ou vous le souhaiter sur votre ordinateur : 
+Une fois télécharger, dézipper le dossier sur votre ordinateur dans un dossier préalablement créé : 
 
 ![](.gitbook/assets/dezip.jpg)
 
@@ -30,11 +30,9 @@ Pour lancer l'installation, vous devez exécuter le fichier .exe :
 
 ![](.gitbook/assets/exe.jpg)
 
-Une fois Installé nous vous proposons de passer à "**Création d'un projet**" ci-dessous :
 
-{% page-ref page="presentation-detaillee-du-logiciel/creation-dun-projet.md" %}
 
-## Création d'un raccourcis Bureau 
+## Création d'un raccourcis Bureau \(facultatif\)
 
 Si vous souhaitez  y avoir accès depuis n'importe où, les raccourcis sont pratiques 
 
@@ -42,5 +40,11 @@ Faite **clique droit sur le .exe, Envoyer vers , Bureau :**
 
 ![](.gitbook/assets/racourcibureau.jpg)
 
-Vous devez maintenant avoir un raccourci sur le bureau 😉 
+Vous devez maintenant avoir un raccourci sur le bureau.
+
+Une fois arrivé sur l'interface du logiciel nous vous invitons à poursuivre le guide utilisateur en cliquant sur le lien ci-dessous.
+
+{% page-ref page="presentation-generale-de-linterface.md" %}
+
+
 
