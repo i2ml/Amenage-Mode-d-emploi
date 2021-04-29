@@ -1,2 +1,2 @@
-# Recharger son projet
+# Ouvrir un projet existant
 

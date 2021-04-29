@@ -1,2 +1,2 @@
-# Quitter l'application en toute sécurité
+# Sauvegarder et quitter
 
