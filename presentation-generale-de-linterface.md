@@ -60,7 +60,7 @@ Dans **le menu projet** vous pouvez retrouver une liste de boutons vous permetta
 
 -Si l'on **clique** sur le **quatrième bouton**, vous pouvez **créer des zones de texte** afin de **structurer** la création de **votre bien,** vous pouvez également **réaliser des mesures** sur vos scènes.
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/quatrieme.jpg)
 
 ## Le menu secondaire
 

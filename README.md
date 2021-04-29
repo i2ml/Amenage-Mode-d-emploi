@@ -20,23 +20,3 @@ Retrouvez toutes les **solutions libre** de la fondation **i2ml** sur notre **Gi
 
 {% page-ref page="presentation-detaillee-du-logiciel/open-source.md" %}
 
-## [Téléchargement du logiciel](https://amenage.i2ml.fr/3d) 
-
-**Sommaire :**
-
-{% page-ref page="presentation-generale-de-linterface.md" %}
-
-{% page-ref page="installation-du-logiciel.md" %}
-
-{% page-ref page="presentation-detaillee-du-logiciel/" %}
-
-{% page-ref page="exemple-de-realisation-dun-projet-avec-amenage.md" %}
-
-{% page-ref page="presentation-detaillee-du-logiciel-1/creation-dun-projet.md" %}
-
-{% page-ref page="contact/liens-utiles.md" %}
-
-{% page-ref page="contact/" %}
-
-Vous ne savez pas par quoi commencer "pas de panic" laissez-vous guider et cliquer sur le lien ci-dessous pour commencer :
-
