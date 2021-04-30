@@ -4,7 +4,7 @@ description: Configuration du projet.
 
 # Création d'un Projet
 
-**Au départ**, pour éviter tout problème pour la suite des opérations, il vous faudra **renseigner** les **champs** suivant dans le **premier onglets** "Projets" du menu principal.
+**Au départ**, pour éviter tous problèmes pour la suite des opérations, il vous faudra **renseigner** les **champs** suivant dans le **premier onglets** "Projets" du menu principal.
 
 ![](../.gitbook/assets/capture_menu_deroulant.png)
 
