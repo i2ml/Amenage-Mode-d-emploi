@@ -10,7 +10,7 @@ description: Configuration du projet.
 
 
 
-Un **sous-menu** s'affiche avec des **champs vide** à remplir. Dans l'ordre de haut en bas les champs correspondent à :
+Un **sous-menu** s'affiche avec des **champs vide** à remplir. Dans l'ordre de haut en bas, les champs correspondent à :
 
 * Le **nom** de votre projet.
 * Votre **nom**.
@@ -24,7 +24,7 @@ Un **sous-menu** s'affiche avec des **champs vide** à remplir. Dans l'ordre de 
 Plus les champs seront remplis plus votre sauvegarde sera claire et précise lors de l'export.
 {% endhint %}
 
-Afin de **sauvegarder** votre projet, il vous faut **cliquer** sur le bouton comme indiqué ci-dessous ou faire le raccourcis **ctrl + s**. Une fenêtre s'ouvrira et il faudra **enregistrer** le fichier **.json** dans un endroit où vous pourrez y **avoir accès facilement**.
+Afin de **sauvegarder** votre projet, il vous faudra **cliquer** sur le bouton comme indiqué ci-dessous ou faire le raccourcis **ctrl + s**. Une fenêtre s'ouvrira et il faudra **enregistrer** le fichier **.json** dans un endroit où vous pourrez y **avoir accès facilement**.
 
 ![](../.gitbook/assets/capture_menu_deroulant_save.png)
 
