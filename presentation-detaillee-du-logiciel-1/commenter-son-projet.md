@@ -1,4 +1,4 @@
 # Commenter son projet
 
-test
+Une fois votre pièce créée, 
 
