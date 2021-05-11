@@ -4,7 +4,9 @@ Pour **placer** vos premiers meubles rien de plus simple, rendez-vous dans le **
 
 ![Menu des meubles ](../.gitbook/assets/menu3.jpg)
 
+![Placement de meubles](../.gitbook/assets/placement_meuble%20%281%29.gif)
+
 Avec la **multitude de meubles** mis à votre disposition vous pouvez **personnaliser** votre **logement** comme bon vous semble.
 
-![](../.gitbook/assets/placement_meuble%20%281%29.gif)
+![Liste des meubles](../.gitbook/assets/liste_des_meubles_trim.gif)
 

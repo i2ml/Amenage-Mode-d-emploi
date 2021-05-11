@@ -8,7 +8,7 @@
   * [Créer sa première pièce](presentation-detaillee-du-logiciel-1/creer-sa-premiere-piece.md)
   * [Commenter son projet](presentation-detaillee-du-logiciel-1/commenter-son-projet.md)
   * [Mettre ses premiers meubles](presentation-detaillee-du-logiciel-1/mettre-ces-premiers-meubles.md)
-  * [Décorer](presentation-detaillee-du-logiciel-1/decorer.md)
+  * [Décorer votre logement](presentation-detaillee-du-logiciel-1/decorer.md)
   * [Sauvegarder son projet](presentation-detaillee-du-logiciel-1/sauvegarder-son-projet.md)
   * [Ouvrir un projet existant](presentation-detaillee-du-logiciel-1/recharger-son-projet.md)
   * [Sauvegarder et quitter](presentation-detaillee-du-logiciel-1/quitter-lapplication-en-toute-securite.md)
