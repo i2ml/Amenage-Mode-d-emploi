@@ -1,4 +1,4 @@
-# Example
+# Exemple
 
 ![](.gitbook/assets/exampleapparetement.png)
 
