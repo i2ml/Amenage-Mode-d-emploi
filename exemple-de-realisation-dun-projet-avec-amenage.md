@@ -7,7 +7,7 @@ description: >-
 
 # Exemple de réalisation d'un projet avec Aménage
 
-Avec cet outil vous pourrez réaliser des projets divers et variés comme par exemple la réalisation d'un appartement avec plusieurs pièce comme ci-dessous :
+Avec ce **logiciel** vous pourrez **réaliser** des projets divers et variés comme par exemple la **réalisation d'un appartement** avec plusieurs pièce comme ci-dessous :
 
 
 
@@ -15,19 +15,19 @@ Avec cet outil vous pourrez réaliser des projets divers et variés comme par ex
 
 ![Vue 3D du projet](.gitbook/assets/image%20%2833%29.png)
 
-Plusieurs mobilier seront à votre disposition afin de correspondre au plus à vos attentes : 
+**Plusieurs** mobilier seront à **votre disposition** afin de **correspondre** au plus à vos **attentes** : 
 
--Mobilier de cuisine :
+-**Mobilier de cuisine** :
 
-![](.gitbook/assets/image%20%2829%29.png)
+![Capture d&apos;&#xE9;cran de la cuisine](.gitbook/assets/image%20%2829%29.png)
 
--Mobilier de salon :
+-**Mobilier de salon** :
 
-![](.gitbook/assets/image%20%287%29.png)
+![Capture d&apos;&#xE9;cran du salon](.gitbook/assets/image%20%287%29.png)
 
-De plus avec un peu de décoration et un peu d'imagination nous pouvons arriver à un résultat correct de l'appartement souhaité : 
+De plus avec **un peu de décoration** et **un peu d'imagination** nous pouvons arriver à **un résultat correct** de l'appartement souhaité : 
 
-![](.gitbook/assets/image%20%2824%29.png)
+![Logement avec de la d&#xE9;coration](.gitbook/assets/image%20%2824%29.png)
 
 
 
