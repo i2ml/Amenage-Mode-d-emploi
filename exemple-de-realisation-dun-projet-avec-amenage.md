@@ -1,10 +1,3 @@
----
-description: >-
-  TO DO : Dans l'idée, utiliser un maximum de fonctionnalités du logiciel pour
-  réaliser un projet type, et donner tous les détails de ce dernier, agrémenté
-  de captures d'écran afin de donner envie
----
-
 # Exemple de réalisation d'un projet avec Aménage
 
 Avec ce **logiciel** vous pourrez **réaliser** des projets divers et variés comme par exemple la **réalisation d'un appartement** avec plusieurs pièce comme ci-dessous :
