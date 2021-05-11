@@ -4,3 +4,5 @@ En plus de la liste divers et variée de meubles, vous pouvez **changer** la **c
 
 ![Coloration des murs](../.gitbook/assets/decorer_trim.gif)
 
+
+
