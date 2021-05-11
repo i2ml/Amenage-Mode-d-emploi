@@ -30,27 +30,3 @@ Afin de **sauvegarder** votre projet, il vous faudra **cliquer** sur le bouton c
 
 Une fois le projet **créer** et **enregistrer** vous êtes prêt pour la suite du tutoriel :
 
-{% page-ref page="creer-sa-premiere-piece.md" %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
