@@ -1,2 +1,0 @@
-# Sauvegarder et quitter
-

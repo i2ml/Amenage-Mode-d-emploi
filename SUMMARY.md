@@ -11,7 +11,6 @@
   * [Commenter son projet](presentation-detaillee-du-logiciel-1/commenter-son-projet.md)
   * [Sauvegarder son projet](presentation-detaillee-du-logiciel-1/sauvegarder-son-projet.md)
   * [Ouvrir un projet existant](presentation-detaillee-du-logiciel-1/recharger-son-projet.md)
-  * [Sauvegarder et quitter](presentation-detaillee-du-logiciel-1/quitter-lapplication-en-toute-securite.md)
 * [Présentation de l'aspect "open source" / "collaboratif" du projet](presentation-detaillee-du-logiciel/README.md)
   * [Open Source](presentation-detaillee-du-logiciel/open-source.md)
   * [Installation du logiciel pour du développement](presentation-detaillee-du-logiciel/installation-du-logiciel-pour-du-developpement.md)
