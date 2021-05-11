@@ -44,7 +44,3 @@ Vous devez maintenant avoir un raccourci sur le bureau.
 
 Une fois arrivé sur l'interface du logiciel nous vous invitons à poursuivre le guide utilisateur en cliquant sur le lien ci-dessous.
 
-{% page-ref page="presentation-generale-de-linterface.md" %}
-
-
-

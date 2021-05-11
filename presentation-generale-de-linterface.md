@@ -78,17 +78,3 @@ le menu secondaire est une barre située en haut de l'encrant permettant d'accé
 
 Après avoir survolez **les fonctionnalités de l'interface du logiciel**, nous allons maintenant voir plus en détail **les fonctionnalités énoncées précédemment**.
 
-{% page-ref page="presentation-detaillee-du-logiciel-1/" %}
-
-
-
-
-
-
-
-
-
-
-
-
-
