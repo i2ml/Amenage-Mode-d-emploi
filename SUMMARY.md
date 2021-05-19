@@ -14,8 +14,8 @@
 * [Présentation de l'aspect "open source" / "collaboratif" du projet](presentation-detaillee-du-logiciel/README.md)
   * [Open Source](presentation-detaillee-du-logiciel/open-source.md)
   * [Installation du logiciel pour du développement](presentation-detaillee-du-logiciel/installation-du-logiciel-pour-du-developpement.md)
-* [Exemple de réalisation d'un projet avec Aménage](exemple-de-realisation-dun-projet-avec-amenage.md)
-* [Exemple](example.md)
+* [Exemple de réalisation d'un projet avec Aménage](exemple-de-realisation-dun-projet-avec-amenage/README.md)
+  * [Exemple](exemple-de-realisation-dun-projet-avec-amenage/example.md)
 * [Contact](contact/README.md)
   * [liens utiles](contact/liens-utiles.md)
 

@@ -10,7 +10,7 @@ Il permet donc une **communication** plus **facile/directe** entre **client et p
 
 Il est **simple d'utilisation** et nous vous mettons à disposition une **documentation** afin de prendre en main en peu de temps le logiciel Aménage :
 
-{% page-ref page="exemple-de-realisation-dun-projet-avec-amenage.md" %}
+{% page-ref page="exemple-de-realisation-dun-projet-avec-amenage/" %}
 
 ### Open source et gratuit
 
