@@ -15,7 +15,7 @@
   * [Open Source](presentation-detaillee-du-logiciel/open-source.md)
   * [Installation du logiciel pour du développement](presentation-detaillee-du-logiciel/installation-du-logiciel-pour-du-developpement.md)
 * [Exemple de réalisation d'un projet avec Aménage](exemple-de-realisation-dun-projet-avec-amenage/README.md)
-  * [Exemple](exemple-de-realisation-dun-projet-avec-amenage/example.md)
+  * [Autre exemple](exemple-de-realisation-dun-projet-avec-amenage/exemple.md)
 * [Contact](contact/README.md)
   * [liens utiles](contact/liens-utiles.md)
 

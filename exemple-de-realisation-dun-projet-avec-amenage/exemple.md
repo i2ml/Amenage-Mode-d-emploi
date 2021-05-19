@@ -1,4 +1,4 @@
-# Exemple
+# Autre exemple
 
 ![](../.gitbook/assets/exampleapparetement.png)
 
