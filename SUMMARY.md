@@ -8,7 +8,6 @@
   * [Créer sa première pièce](presentation-detaillee-du-logiciel-1/creer-sa-premiere-piece.md)
   * [Mettre ses premiers meubles](presentation-detaillee-du-logiciel-1/mettre-ces-premiers-meubles.md)
   * [Décorer votre logement](presentation-detaillee-du-logiciel-1/decorer.md)
-  * [Commenter son projet](presentation-detaillee-du-logiciel-1/commenter-son-projet.md)
   * [Sauvegarder son projet](presentation-detaillee-du-logiciel-1/sauvegarder-son-projet.md)
   * [Ouvrir un projet existant](presentation-detaillee-du-logiciel-1/recharger-son-projet.md)
 * [Présentation de l'aspect "open source" / "collaboratif" du projet](presentation-detaillee-du-logiciel/README.md)
